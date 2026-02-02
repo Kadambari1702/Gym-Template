@@ -1,0 +1,45 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.bg1 .carousel-item img {
+    height: 600px;
+    object-fit: cover;
+}
+
+.btn
+{
+    background-color: #ff2f6e;;
+}
+
+.div1
+{
+    background-color: #ff2f6e;;
+}
+
+.btn1
+{
+    background-color: gold;
+}
+
+.m1
+{
+    z-index: 1;
+}
+
+.carousel-caption 
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 80%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.p1
+{
+    color: rgb(230, 81, 106);
+}
